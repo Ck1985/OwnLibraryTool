@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OwnLibraryTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OwnLibraryTool_jar</output-path>
+    <root id="archive" name="OwnLibraryTool.jar">
+      <element id="module-output" name="OwnLibraryTool" />
+    </root>
+  </artifact>
+</component>

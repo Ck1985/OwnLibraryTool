@@ -156,9 +156,9 @@
      fork="true"/>
   </target>
 
-  <target name="CovariantArrays">
+  <target name="generics.CovariantArrays">
     <java
-     classname="CovariantArrays"
+     classname="generics.CovariantArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
      dir="../generics/"
      failonerror="true"

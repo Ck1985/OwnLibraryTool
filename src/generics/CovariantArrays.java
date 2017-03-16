@@ -1,4 +1,4 @@
-//: generics/CovariantArrays.java
+package generics;//: generics/generics.CovariantArrays.java
 
 class Fruit {}
 class Apple extends Fruit {}
@@ -10,9 +10,9 @@ public class CovariantArrays {
     Fruit[] fruit = new Apple[10];
     fruit[0] = new Apple(); // OK
     fruit[1] = new Jonathan(); // OK
-    // Runtime type is Apple[], not Fruit[] or Orange[]:
+    // Runtime type is generics.Apple[], not generics.Fruit[] or generics.Orange[]:
     try {
-      // Compiler allows you to add Fruit:
+      // Compiler allows you to add generics.Fruit:
       fruit[0] = new Fruit(); // ArrayStoreException
     } catch(Exception e) { System.out.println(e); }
     try {
@@ -21,6 +21,6 @@ public class CovariantArrays {
     } catch(Exception e) { System.out.println(e); }
   }
 } /* Output:
-java.lang.ArrayStoreException: Fruit
-java.lang.ArrayStoreException: Orange
+java.lang.ArrayStoreException: generics.Fruit
+java.lang.ArrayStoreException: generics.Orange
 *///:~

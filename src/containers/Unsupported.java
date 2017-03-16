@@ -1,5 +1,6 @@
 //: containers/Unsupported.java
 // Unsupported operations in Java containers.
+package containers;
 import java.util.*;
 
 public class Unsupported {

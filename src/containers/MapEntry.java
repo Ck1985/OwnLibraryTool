@@ -1,5 +1,6 @@
 //: containers/MapEntry.java
 // A simple Map.Entry for sample Map implementations.
+package containers;
 import java.util.*;
 
 public class MapEntry<K,V> implements Map.Entry<K,V> {

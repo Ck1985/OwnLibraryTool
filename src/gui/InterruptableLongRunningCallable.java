@@ -1,5 +1,6 @@
 //: gui/InterruptableLongRunningCallable.java
 // Using Callables for long-running tasks.
+package gui;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

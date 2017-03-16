@@ -1,5 +1,6 @@
 //: initialization/OverloadingVarargs2.java
 // {CompileTimeError} (Won't compile)
+package initialization;
 
 public class OverloadingVarargs2 {
   static void f(float i, Character... args) {
@@ -10,6 +11,6 @@ public class OverloadingVarargs2 {
   }
   public static void main(String[] args) {
     f(1, 'a');
-    f('a', 'b');
+    //f('a', 'b');
   }
 } ///:~

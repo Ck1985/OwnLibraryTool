@@ -1,5 +1,5 @@
 //: generics/BasicHolder.java
-
+package generics;
 public class BasicHolder<T> {
   T element;
   void set(T arg) { element = arg; }

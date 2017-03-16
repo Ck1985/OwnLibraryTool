@@ -1,5 +1,6 @@
 //: swt/SineWave.java
 // SWT translation of Swing SineWave.java.
+package swt;
 import swt.util.*;
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

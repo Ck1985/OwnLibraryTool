@@ -1,4 +1,7 @@
 //: generics/ClassCasting.java
+package generics;
+import access.Widget;
+
 import java.io.*;
 import java.util.*;
 

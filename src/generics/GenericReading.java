@@ -1,4 +1,5 @@
 //: generics/GenericReading.java
+package generics;
 import java.util.*;
 
 public class GenericReading {

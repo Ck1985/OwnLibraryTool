@@ -1,4 +1,5 @@
 //: typeinfo/FilledList.java
+package typeinfo;
 import java.util.*;
 
 class CountedInteger {

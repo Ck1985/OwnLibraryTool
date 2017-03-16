@@ -3,7 +3,7 @@
 // {Exec: apt -factory
 // annotations.InterfaceExtractorProcessorFactory
 // Multiplier.java -s ../annotations}
-/*package annotations;
+package annotations;
 import com.sun.mirror.apt.*;
 import com.sun.mirror.declaration.*;
 import java.io.*;
@@ -57,4 +57,4 @@ public class InterfaceExtractorProcessor
       }
     }
   }
-}*/ ///:~
+} ///:~

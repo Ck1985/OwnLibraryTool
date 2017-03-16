@@ -1,4 +1,4 @@
-//: io/MyWorld.java
+package io;
 import java.io.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

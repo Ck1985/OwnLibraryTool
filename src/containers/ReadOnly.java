@@ -1,5 +1,6 @@
 //: containers/ReadOnly.java
 // Using the Collections.unmodifiable methods.
+package containers;
 import java.util.*;
 import net.mindview.util.*;
 import static net.mindview.util.Print.*;

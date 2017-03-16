@@ -1,6 +1,7 @@
 //: containers/ListPerformance.java
 // Demonstrates performance differences in Lists.
 // {Args: 100 500} Small to keep build testing short
+package containers;
 import java.util.*;
 import net.mindview.util.*;
 

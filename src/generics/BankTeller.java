@@ -1,5 +1,6 @@
 //: generics/BankTeller.java
 // A very simple bank teller simulation.
+package generics;
 import java.util.*;
 import net.mindview.util.*;
 
@@ -33,13 +34,13 @@ public class BankTeller {
     System.out.println(t + " serves " + c);
   }
   public static void main(String[] args) {
-    Random rand = new Random(47);
+    /*Random rand = new Random(47);
     Queue<Customer> line = new LinkedList<Customer>();
     Generators.fill(line, Customer.generator(), 15);
     List<Teller> tellers = new ArrayList<Teller>();
     Generators.fill(tellers, Teller.generator, 4);
     for(Customer c : line)
-      serve(tellers.get(rand.nextInt(tellers.size())), c);
+      serve(tellers.get(rand.nextInt(tellers.size())), c);*/
   }	
 } /* Output:
 Teller 3 serves Customer 1

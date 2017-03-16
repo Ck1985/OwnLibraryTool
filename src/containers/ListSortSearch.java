@@ -1,5 +1,6 @@
 //: containers/ListSortSearch.java
 // Sorting and searching Lists with Collections utilities.
+package containers;
 import java.util.*;
 import static net.mindview.util.Print.*;
 

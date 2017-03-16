@@ -1,5 +1,6 @@
 //: generics/EpicBattle.java
 // Demonstrating bounds in Java generics.
+package generics;
 import java.util.*;
 
 interface SuperPower {}

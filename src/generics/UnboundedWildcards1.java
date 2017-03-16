@@ -1,4 +1,5 @@
 //: generics/UnboundedWildcards1.java
+package generics;
 import java.util.*;
 
 public class UnboundedWildcards1 {

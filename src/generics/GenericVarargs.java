@@ -1,4 +1,5 @@
 //: generics/GenericVarargs.java
+package generics;
 import java.util.*;
 
 public class GenericVarargs {

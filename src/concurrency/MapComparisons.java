@@ -1,6 +1,7 @@
 //: concurrency/MapComparisons.java
 // {Args: 1 10 10} (Fast verification check during build)
 // Rough comparison of thread-safe Map performance.
+package concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 import net.mindview.util.*;

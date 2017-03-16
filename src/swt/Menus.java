@@ -1,5 +1,6 @@
 //: swt/Menus.java
 // Fun with menus.
+package swt;
 import swt.util.*;
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

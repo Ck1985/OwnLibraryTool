@@ -1,5 +1,6 @@
 //: containers/Synchronization.java
 // Using the Collections.synchronized methods.
+package containers;
 import java.util.*;
 
 public class Synchronization {

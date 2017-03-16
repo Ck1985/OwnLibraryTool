@@ -1,5 +1,6 @@
 //: innerclasses/LocalInnerClass.java
 // Holds a sequence of Objects.
+package innerclasses;
 import static net.mindview.util.Print.*;
 
 interface Counter {

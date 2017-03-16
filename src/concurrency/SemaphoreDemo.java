@@ -1,5 +1,6 @@
 //: concurrency/SemaphoreDemo.java
 // Testing the Pool class
+package concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

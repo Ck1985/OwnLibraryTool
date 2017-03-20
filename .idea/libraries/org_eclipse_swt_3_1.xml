@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="swt-win64-3.6.2">
+  <library name="org.eclipse.swt-3.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../swt-win64-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../org.eclipse.swt-3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

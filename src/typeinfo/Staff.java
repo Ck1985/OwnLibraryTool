@@ -1,4 +1,6 @@
 //: typeinfo/Staff.java
+package typeinfo;
+
 import java.util.*;
 
 public class Staff extends ArrayList<Position> {

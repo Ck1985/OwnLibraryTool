@@ -1,4 +1,5 @@
 //: typeinfo/Position.java
+package typeinfo;
 
 class Position {
   private String title;

@@ -1,5 +1,6 @@
 //: typeinfo/Robot.java
 package typeinfo;
+
 import java.util.*;
 import net.mindview.util.*;
 

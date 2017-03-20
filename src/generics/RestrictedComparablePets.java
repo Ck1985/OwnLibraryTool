@@ -1,4 +1,5 @@
 //: generics/RestrictedComparablePets.java
+package generics;
 
 class Hamster extends ComparablePet
 implements Comparable<ComparablePet> {
